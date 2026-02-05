@@ -18,7 +18,7 @@ The system is engineered for those who require a clean, methodical space to arch
 * **Intuitive Workflow** | Focuses on the immediate capture of temporal data and narrative flow.
 
 ### // TECH STACK
-* **Core** | [Insert Language, e.g., C++ / PHP / JS]
+* **Core** | C#, .NET MAUI
 * **Data Management** | Localized Storage Logic
 * **Design Philosophy** | Functional Brutalism / Minimalism
 
